@@ -1,0 +1,30 @@
+[
+  {
+    "Id": 1,
+    "Nome": "Daniel Santos",
+    "DataNascimento": "2000-06-29",
+    "CadastroEm": "2024-09-07T17:57:32.3858309-03:00",
+    "Desconto": 10
+  },
+  {
+    "Id": 2,
+    "Nome": "Izabel Vit\u0000ria",
+    "DataNascimento": "2002-07-03",
+    "CadastroEm": "2024-09-07T18:08:35.3213389-03:00",
+    "Desconto": 30
+  },
+  {
+    "Id": 3,
+    "Nome": "Izaias Batista",
+    "DataNascimento": "2004-12-12",
+    "CadastroEm": "2024-09-07T18:10:19.352032-03:00",
+    "Desconto": 50
+  },
+  {
+    "Id": 4,
+    "Nome": "Claudia Vit\u0000ria",
+    "DataNascimento": "2000-06-12",
+    "CadastroEm": "2024-09-07T18:17:21.5347346-03:00",
+    "Desconto": 40
+  }
+]
